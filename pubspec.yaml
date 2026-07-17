@@ -1,0 +1,11 @@
+name: injectable_workspace
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+workspace:
+  - injectable
+  - injectable_generator
+
+dev_dependencies:
+  melos: ^8.2.2

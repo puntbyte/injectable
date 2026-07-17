@@ -6,6 +6,8 @@ homepage: https://github.com/Milad-Akarie/injectable
 environment:
   sdk: ">=3.8.0 <4.0.0"
 
+resolution: workspace
+
 dependencies:
   get_it: ">=8.3.0 <10.0.0"
   meta: ^1.16.0
